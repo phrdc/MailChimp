@@ -34,30 +34,93 @@ You can add subscribed contacts one-by-one or multiple, upload contacts from a f
 
 1. Click Audience
 
-![This is an image](https://i.imgur.com/5W6kgTO.png)
+    ![This is an image](https://i.imgur.com/5W6kgTO.png)
 
 2. Click the Audience dashboard.
 
-![This is an image](https://i.imgur.com/7jG7rNx.png)
+    ![This is an image](https://i.imgur.com/7jG7rNx.png)
 
 3. If you have more than one audience, click the **Current audience** drop-down and choose the one you want to work with.
 4. Click the **Manage Audience** drop-down and choose **Add a subscriber.**
 5. Type in the subscriber's information and check the **This person gave me permission to email them** box.
 
-![This is an image](https://i.imgur.com/wg3itWa.png)
+    ![This is an image](https://i.imgur.com/wg3itWa.png)
 
 6. Apply any necessary tags. If you have groups set up in your audience, those options will appear here.
 7. When you're done, click **Subscribe.**
 
-![This is an image](https://i.imgur.com/pG8omjj.png)
+    ![This is an image](https://i.imgur.com/pG8omjj.png)
 
 If the email address is already on your audience and you want to update the information you have on file, check the If this person is already in my audience, update their profile box.
 
 After the person has been successfully added, we'll display a success message at the top of the page.
 
+### **How to import multiple subscriber**
 
+The file import process has two parts: First, you'll prepare your spreadsheet of contacts outside of Mailchimp and save it as a CSV file. Next, you'll use our import tool to upload your file and add your contacts to your Mailchimp audience.
 
+**To prepare your file for import, follow these steps.**
 
+1. In a spreadsheet program like Excel or Google Sheets, open your blank worksheet.
+2. Create and label a column for **Email Address**. This is the only field we require.
+
+    ![This is an image](https://i.imgur.com/r65Y8SX.png)
+
+3. Next to your Email Address column, create and label additional columns for First Name, Last Name, and any other information you want to import to Mailchimp.
+
+    ![This is an image](https://i.imgur.com/YgQCKPS.png)
+
+To learn how to format phone numbers, birthdays, mailing addresses, and other types of data, check out [Format Guidelines for your Import File.](https://mailchimp.com/help/format-guidelines-for-your-import-file/)
+
+4. Paste your contacts' information into the relevant fields in the spreadsheet.
+   
+   ![This is an image](https://i.imgur.com/ibCL6G7.png)
+
+5. Save the file in CSV format. This option can usually be accessed from the **File** menu in your spreadsheet program, labeled as "Export as .CSV" or "Download as .CSV". Different spreadsheet programs will vary a little bit.
+
+**Import to Mailchimp**
+
+To import your contacts to Mailchimp, follow these steps.
+1. Click Audience
+
+    ![This is an image](https://i.imgur.com/5W6kgTO.png)
+
+2. Click the Audience dashboard.
+
+    ![This is an image](https://i.imgur.com/7jG7rNx.png)
+
+3. If you have more than one audience, click the **Current audience** drop-down and choose the one you want to work with.
+4. Click the **Manage Audience** drop-down and choose **Import contacts.**
+5. Choose **Upload File.**
+
+   ![This is an image](https://i.imgur.com/d38TfS3.png)
+
+6. Click **Continue to Upload.**
+
+   ![This is an image](https://i.imgur.com/wuyqsG9.png)
+
+7. Click **Browse** and choose the CSV file from your computer.
+   
+   ![This is an image](https://i.imgur.com/HH0fYlW.png)
+
+8. Click **Continue to Organize.**
+   
+   ![This is an image](https://i.imgur.com/Ge5xLUb.png)
+9. Use the **Select an audience** drop-down to confirm the audience you want to import to.
+
+   ![This is an image](https://i.imgur.com/7u7XnhF.png)
+
+10. Use the **Select a status** drop-down menu to choose the status of the contacts you're about to import.
+
+    ![This is an image](https://i.imgur.com/7JVFWzW.png)
+
+    The available statuses for contacts are:
+    - Subscribed
+    - Unsubscribed
+    - Non-subscribed
+    - Clean
+    
+     If you import subscribed contacts, be sure that you have [permission](https://mailchimp.com/help/the-importance-of-permission/) to send them marketing.
 
 
 
