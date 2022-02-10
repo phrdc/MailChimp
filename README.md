@@ -114,13 +114,63 @@ To import your contacts to Mailchimp, follow these steps.
 
     ![This is an image](https://i.imgur.com/7JVFWzW.png)
 
-    The available statuses for contacts are:
+    The available [statuses for contacts](https://mailchimp.com/help/about-your-contacts/) are:
     - Subscribed
     - Unsubscribed
     - Non-subscribed
     - Clean
     
      If you import subscribed contacts, be sure that you have [permission](https://mailchimp.com/help/the-importance-of-permission/) to send them marketing.
+
+11. If your audience has [groups](https://mailchimp.com/help/getting-started-with-groups/), you can import your contacts directly into the group of your choice. Navigate to the **Select groups** section and check the box next to each group that applies.
+    
+    ![This is an image](https://i.imgur.com/1rJWAGK.png)
+
+    You'll only see this option if you have groups in your audience.
+
+12. If you want to update contacts that are already in your audience, check the box next to **Update any existing contacts.**
+
+    ![This is an image](https://i.imgur.com/8ZwKx8Q.png)
+
+13. Click **Continue to Tag.**
+
+    ![This is an image](https://i.imgur.com/U5wlupl.png)
+
+14. If you want to assign [tags](https://mailchimp.com/help/getting-started-tags/) to all of the contacts in your import, click the drop-down menu and choose or create tags as needed. You can also choose from popular tags.
+    
+    ![This is an image](https://i.imgur.com/6rHdRq4.png)
+
+15. When you're ready, click **Continue to Match.**
+    
+    ![This is an image](https://i.imgur.com/yagGKCz.png)
+
+16. Match the columns in your import file to the fields in your Mailchimp audience. We'll automatically match some columns for you. For example, the column that contains email addresses will match the required **Email Address** field.
+    
+    ![This is an image](https://i.imgur.com/wvvT3Aj.png)
+
+17. Click the column header to choose a different field type for the column or to create a new field. Repeat for all unmatched columns that you want to import. Any unmatched columns will not be imported.
+    
+    ![This is an image](https://i.imgur.com/eUbjxEp.png)
+
+18. Click **Finalize Import** to review your import settings.
+    
+     ![This is an image](https://i.imgur.com/iMYpXE9.png)
+
+19. If everything looks good, click **Complete Import.**
+    
+    ![This is an image](https://i.imgur.com/dYRNg1C.png)
+
+That's it! After the import is finished, we'll send a notification to the email address associated with your username.
+
+---
+Note
+    
+- Imported subscribers don't go through [the signup process](https://mailchimp.com/help/about-signup-form-options/), so you'll need to verify that you have permission to email them.
+- When you import contacts to an existing audience, we won’t include any duplicate, bounced, or unsubscribed addresses that are already stored in the audience.
+- Because all audiences in Mailchimp are independent of each other, we can't detect duplicates, bounces, or unsubscribes across multiple audiences. If you have duplicate contacts in different audiences, you may find it helpful to combine your audiences into a primary audience that uses groups or tags.
+---
+
+
 
 
 
