@@ -1,4 +1,4 @@
-![This is an image](https://i.imgur.com/EFH3Nlb.png)
+![This is an image](https://i.imgur.com/7aYD88e.png)
 -----
 # **Audience**
 ## **Audience Dashboard**
