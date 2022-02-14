@@ -83,7 +83,7 @@ To learn how to format phone numbers, birthdays, mailing addresses, and other ty
 
 5. Save the file in CSV format. This option can usually be accessed from the **File** menu in your spreadsheet program, labeled as "Export as .CSV" or "Download as .CSV". Different spreadsheet programs will vary a little bit.
 
-**Import to Mailchimp**
+### **Import to Mailchimp**
 
 To import your contacts to Mailchimp, follow these steps.
 1. Click Audience
@@ -175,8 +175,179 @@ Note
 - Because all audiences in Mailchimp are independent of each other, we can't detect duplicates, bounces, or unsubscribes across multiple audiences. If you have duplicate contacts in different audiences, you may find it helpful to combine your audiences into a primary audience that uses groups or tags.
 
 ---
+### **How to delete audience**
+
+To delete or permanently delete contact, follow these steps.
+
+1. Generate all contacts by clicking **All contacts** Tab.
+   
+   ![This is an image](https://i.imgur.com/1oxQbGb.png)
+
+2. Click the **Manage contacts** drop-down, then select **Data management tool**.
+   
+   ![This is an image](https://i.imgur.com/Z6tDUbX.png)
+
+3. Check the contact you want to delete and click the **Permanently Delete** button.
+   
+   ![This is an image](https://i.imgur.com/M5JhIwu.png)
+
+4. To confirm delete you have to type **PERMANENTLY DELETE** then click the **Confirm** button to proceed.
+   
+   ![This is an image](https://i.imgur.com/7nYVF1t.png)
+---
 # **Campaigns**
 When designing email campaigns, focus on your message and keep your design straightforward. We suggest laying out all the elements for your campaign in a hierarchy, putting your most important information or the main takeaway toward the top so people can quickly scan your email if they’re short on time.
+
+## **Create an email**
+
+To create a regular mail, follow these steps.
+
+1. Click the **Create** icon.
+   
+   ![This is an image](https://i.imgur.com/P9lEMAa.png)
+
+2. Click the **Email** drop-down.
+   
+   ![This is an image](https://i.imgur.com/WFE6gar.png)
+
+3. Click **Regular**.
+   
+   ![This is an image](https://i.imgur.com/AtqsLC5.png)
+
+4. Enter a campaign name and click **Begin**.
+   
+   ![This is an image](https://i.imgur.com/eS5HPFQ.png)
+
+This will take you to builder, where you'll choose your settings and design your content.
+
+## **Setup and design**
+
+Our email builder is designed to let you work on the different parts of your email in the order you choose, and review everything at once before you send.
+
+There are four main things to do before you can send.
+ - Add your recipients in the **To** section.
+ - Add your from name and from email address in the **From** section.
+ - Add your subject line in the **Subject** section.
+ - Design your email in the **Content** section.
+
+As each task is completed, a green checkmark will appear next to the corresponding section.
+
+![This is an image](https://i.imgur.com/YDItwUu.png)
+
+You may also want to review your tracking options and other settings.
+
+### **Add recipients**
+
+To choose your recipients, follow these steps.
+
+   1. In the **To** section, click **Add Recipients**.
+   
+      ![This is an image](https://i.imgur.com/bKZDO7t.png)
+
+   2. In the **Audience** drop-down menu, choose the audience you want to send to.
+ 
+   3. In the **Segment or Tag** drop-down menu, choose **All subscribers in audience, Group or new segment,** or one of the available saved or pre-built options.
+       
+      ![This is an image](https://i.imgur.com/GcQx4NB.png)
+    
+   4. **Optional:** Check the **Personalize the "To" field** box to display the recipient's name instead of their email address. This is more personal and may help you avoid spam filters.
+
+      ![This is an image](https://i.imgur.com/RNiY4Kr.png)
+
+      After you check the box, you'll choose a merge tag that corresponds with the data you want to display in the "To" field. For example, if you choose **|FNAME|**, a recipient named Bob will see "To: Bob" instead of "To: phrdc@example.com." The default options are **|FNAME|**, **|LNAME|**, and **|FNAME|** **|LNAME|**, but you can click **Custom** to enter an alternate tag or text.
+
+   5. Click **Save**.
+
+### **Send to a custom segment or group**
+
+To send a campaign to a one-off custom segment or a group within your audience, follow these steps.
+
+   1. Select the audience you would like to send in the **Audience** drop-down menu.
+   2. Click **Group or new segment** in the **Segment or Tag** drop-down menu.
+   
+      ![This is an image](https://i.imgur.com/x6BMU6b.png)
+    
+   3. Create the segment that you would like to send to. To learn more about creating segments, check out [**Create and Send to a Segment**](https://mailchimp.com/help/create-and-send-to-a-segment/).
+
+      ![This is an image](https://i.imgur.com/oFkuL9a.png)
+    
+   4. Click **Save**.
+
+### **Exclude contacts from a campaign**
+
+You can exclude contacts from receiving a campaign by using the segment builder. To exclude a specific segment, use the opposite of the modifier that would be used to include that segment.
+
+For example, a segment that only includes those who joined your audience via your **Hosted Signup Form** would be built as **Signup Source | was | Hosted Signup Form.**
+
+If you want to exclude all contacts who joined via your **Hosted Signup Form**, then your segment would be built as Signup Source | was not | Hosted Signup Form.
+
+![This is an image](https://i.imgur.com/3o9qub4.png)
+
+#### **Add from name and from email address**
+
+To set your from name and from email address, follow these steps.
+
+1. In the **From** section of the email builder, click **Add From.**
+   
+   ![This is an image](https://i.imgur.com/ekJSHl9.png)
+
+2. Enter your from name and email address.
+   
+   ![This is an image](https://i.imgur.com/tmNcR7u.png)
+
+   You may be asked to [**verify the domain**](https://mailchimp.com/help/verify-a-domain/) in your email address.
+
+3. Clcik **Save**.
+
+#### **Add subject**
+
+To set your subject line and optional preview text, follow these steps.
+
+1. In the **Subject** section of the email builder, click **Add Subject.**
+   
+   ![This is an image](https://i.imgur.com/Kg0Y9q3.png)
+
+2. In the **Subject** field, enter a subject line for your email.
+   
+   ![This is an image](https://i.imgur.com/iocLujP.png)
+
+3. In the **Preview text** field, you can enter up to 150 characters that will display next to your subject line in recipients’ inboxes. This field is optional.
+   
+   ![This is an image](https://i.imgur.com/jZVThWu.png)
+
+4. Click **Save**.
+
+#### **Design email**
+
+Whether you're an expert or a novice in email marketing, Mailchimp gives you tools to design beautiful campaigns. You can choose to work with the new inline email builder or use our drag-and-drop classic email builder.
+
+To design your email, navigate to the **Content** section and click **Design Email.**
+
+![This is an image](https://i.imgur.com/sLg7RxL.png)
+
+Then, choose whether you want to work with the Classic Builder or New Builder.
+
+![This is an image](https://i.imgur.com/Na7KwmH.png)
+
+Here's an overview of each option.
+ -  **Classic Builder** Use our classic builder to work with our many email template designs, e-commerce features, and Creative Assistant. Drag and drop content blocks as needed, or custom code from scratch. To learn how to use this builder, check out [**Design an Email with the Classic Builder**](https://mailchimp.com/help/design-an-email-classic-builder/).
+ -  **New Builder** Use our new builder to add and edit content directly to your layout in a refined interface. To learn how to use this builder, check out [**Design an Email with the New Builder**](https://mailchimp.com/help/design-an-email-new-builder/).
+
+## **Send campaign**
+
+After you’ve completed the **To, From, Subject,** and **Content** sections of the email builder, you should see a green checkmark next to each. That means your regular email is ready to send immediately.
+
+![This is an image](https://i.imgur.com/KZg2eDo.png)
+
+If you're ready to send the email to your subscribers, click **Send**. Then, in the **Review Your Campaign** modal, click **Send Now** to confirm your send.
+
+Your email is on its way!
+
+---
+
+
+
+
 
 
 
