@@ -194,6 +194,60 @@ To delete or permanently delete contact, follow these steps.
 4. To confirm delete you have to type **PERMANENTLY DELETE** then click the **Confirm** button to proceed.
    
    ![This is an image](https://i.imgur.com/7nYVF1t.png)
+
+    You have successfully deleted the contact!
+
+
+
+## **Tags**
+
+ - ### **Create new Tag**
+   To create Tags, follow these steps.
+
+    1. Click the **Tags** tab.
+   
+       ![This is an image](https://i.imgur.com/b6lKsRj.png)
+    
+    2. Click the **Create Tag** button.
+       
+       ![This is an image](https://i.imgur.com/wL0jI89.png)
+
+    3. Type the **Tag** name, then click **Create** button to save. 
+       
+       ![This is an image](https://i.imgur.com/RcUeTYr.png)
+
+       Tags save successfully!
+
+ - ### **Delete Tag**
+  
+   To delete Tags, follow these steps.
+
+    1. Check the Tags you want to delete, then click the **Delete** button.
+
+       ![This is an image](https://i.imgur.com/FlVDLjF.png)
+    
+    2. Confirm by clicking **Delete** button to proceed.
+   
+       ![This is an image](https://i.imgur.com/8ofTiVl.png)
+
+       Tags deleted successfully!
+
+ - ### **Apply tags to contacts**
+   To apply Tags, follow these steps.
+    
+    1. Check the contact you want to tag, then click the **Add or Remove Tags** drop-down.
+
+       ![This is an image](https://i.imgur.com/bkXyC5l.png) 
+
+    2. After clicking the drop-down, select and click the tags you want to apply.
+   
+       ![This is an image](https://i.imgur.com/z9at5jH.png) 
+
+       Tags applied successfully!
+
+     
+   
+    
 ---
 # **Campaigns**
 When designing email campaigns, focus on your message and keep your design straightforward. We suggest laying out all the elements for your campaign in a hierarchy, putting your most important information or the main takeaway toward the top so people can quickly scan your email if they’re short on time.
