@@ -1,6 +1,11 @@
 ![This is an image](https://i.imgur.com/7aYD88e.png)
+
+[**Mailchimp**](https://mailchimp.com/) is an American marketing automation platform and email marketing service for managing mailing lists and creating email marketing campaigns to send to customers.
+
 -----
+
 # **Audience**
+
 ## **Audience Dashboard**
 ![This is an image](https://i.imgur.com/HoDYTOO.png)
 
@@ -168,7 +173,11 @@ Note
 - Imported subscribers don't go through [the signup process](https://mailchimp.com/help/about-signup-form-options/), so you'll need to verify that you have permission to email them.
 - When you import contacts to an existing audience, we won’t include any duplicate, bounced, or unsubscribed addresses that are already stored in the audience.
 - Because all audiences in Mailchimp are independent of each other, we can't detect duplicates, bounces, or unsubscribes across multiple audiences. If you have duplicate contacts in different audiences, you may find it helpful to combine your audiences into a primary audience that uses groups or tags.
+
 ---
+# **Campaigns**
+When designing email campaigns, focus on your message and keep your design straightforward. We suggest laying out all the elements for your campaign in a hierarchy, putting your most important information or the main takeaway toward the top so people can quickly scan your email if they’re short on time.
+
 
 
 
