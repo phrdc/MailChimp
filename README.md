@@ -347,7 +347,7 @@ To set your from name and from email address, follow these steps.
 
 2. Enter your from name and email address.
    
-   ![This is an image](https://i.imgur.com/tmNcR7u.png)
+   ![This is an image](https://i.imgur.com/gHZOerN.png)
 
    You may be asked to [**verify the domain**](https://mailchimp.com/help/verify-a-domain/) in your email address.
 
@@ -379,9 +379,11 @@ To design your email, navigate to the **Content** section and click **Design Ema
 
 ![This is an image](https://i.imgur.com/sLg7RxL.png)
 
-Then, choose whether you want to work with the Classic Builder or New Builder.
+Then, choose a template whether you want to work with the Layouts or Themes Builder.
 
-![This is an image](https://i.imgur.com/Na7KwmH.png)
+![This is an image](https://i.imgur.com/3M3fy1r.png)
+
+![This is an image](https://i.imgur.com/VXCcAeN.png)
 
 Here's an overview of each option.
  -  **Classic Builder** Use our classic builder to work with our many email template designs, e-commerce features, and Creative Assistant. Drag and drop content blocks as needed, or custom code from scratch. To learn how to use this builder, check out [**Design an Email with the Classic Builder**](https://mailchimp.com/help/design-an-email-classic-builder/).
@@ -398,6 +400,125 @@ If you're ready to send the email to your subscribers, click **Send**. Then, in 
 Your email is on its way!
 
 ---
+
+# **Automations**
+Automations that are always on—even when you’re off. Never miss an opportunity to connect with people when it matters, so you can turn shoppers into loyal customers.
+
+## **Customer Journeys**
+
+Mailchimp’s Customer Journey builder helps you create unique, automated marketing workflows for your contacts. Use Customer Journeys to add tags, send targeted emails, and accomplish other important tasks for you.
+
+In this article, you’ll learn how to create a Customer Journey.
+
+### **Create a customer journey**
+
+You’ll create and manage your Customer Journey map on the Customer Journeys homepage. You can build a new journey from scratch, or you can click the **Explore** tab and [choose from a variety of pre-built maps](https://mailchimp.com/help/use-pre-built-journey-maps/). In this tutorial, you'll learn how to create a new journey map.
+
+To create a Customer Journey map, follow these steps.
+
+1. Click the **Automations icon**, then choose **Customer Journeys**.
+
+   ![This is an image](https://i.imgur.com/a6TW3K6.png)
+
+2. Click **Create from scratch**.
+
+   ![This is an image](https://i.imgur.com/1PPOSen.png)
+
+3. Enter a Name for your journey, then click the **Start Building** button.
+   
+   ![This is an image](https://i.imgur.com/pKT2lvd.png)
+
+4. Click **Choose A Starting Point.**
+   
+   ![This is an image](https://i.imgur.com/k3Tzozw.png)
+
+5. Choose the starting point you want.
+   
+   ![This is an image](https://i.imgur.com/zRDPocx.png)
+
+    To learn more about the different types of starting points, read [**All the Starting Points**](https://mailchimp.com/help/all-the-starting-points/).
+
+6. Choose the specific settings for your starting point type. For example, if you choose **Opens email**, you’ll then choose whether to include imported contacts.
+
+   ![This is an image](https://i.imgur.com/wT0oOUh.png) 
+
+7. **Optional**: Click **Get more specific about who can enter this map** to use segmenting conditions to filter your starting point.
+   
+   ![This is an image](https://i.imgur.com/jgnLLRg.png) 
+
+8. Click **Save Starting Point**.
+   
+   ![This is an image](https://i.imgur.com/ibuyqCv.png) 
+
+Nice job! You chose the first starting point for your workflow.
+
+### **Activate your journey**
+
+To activate your Customer Journey, follow these steps.
+
+1. When your Customer Journey map is ready, click **Continue**.
+   
+   ![This is an image](https://i.imgur.com/uFxBon1.png) 
+
+2. Choose a marketing objective. This will help Mailchimp provide more personalized recommendations and reporting. You can edit this later in your Journey settings if necessary.
+
+3. Click **Turn On**.
+   
+   ![This is an image](https://i.imgur.com/SFQlItR.png) 
+
+Nice work! Now, contacts will begin the Customer Journey as they meet the first starting point condition.
+
+---
+
+# **Integrations**
+
+Integrations connect your Mailchimp account with your other business and personal accounts so you can share information between them. If you have an e-commerce account on another platform, you can connect your online store to Mailchimp and send marketing messages to your customers without having to create them manually in Mailchimp. You can also connect your social media accounts like Facebook, Instagram, and Twitch and automatically add your followers as contacts in a Mailchimp audience so you can more easily create targeted email campaigns.
+
+## **Canva**
+
+Connect Canva to Mailchimp and send your beautifully designed images to Mailchimp’s Content Studio.
+
+**Before you start**
+- You will need a Canva account to use this integration.
+- Your images will be edited directly in Canva and imported into the Mailchimp Content Studio.
+- Some Canva features may be limited depending on your plan.
+
+Installation steps
+
+1. Log in to your Canva account. To get started, log in or sign up to Canva. Choose what kind of design you’d like to create, then select a template. Customize until you’ve got the look you want.
+   
+   ![This is an image](https://i.imgur.com/GVWDLGQ.jpg) 
+
+2. Publish to Mailchimp
+   
+   When you’re happy with your graphic, click the white button in the top corner to choose your publishing option. Then select Mailchimp.
+
+   ![This is an image](https://i.imgur.com/8Hyq9G4.png) 
+
+3. Connect your Mailchimp account
+
+   If this is the first time you’ve published to Mailchimp, you’ll be prompted to connect your Canva account to your Mailchimp account. Add your Mailchimp username and password to connect.
+   
+   ![This is an image](https://i.imgur.com/wrgyLgf.png) 
+
+4. Add your graphic to your newsletter
+   
+   To add your graphic to your newsletter, open Mailchimp and navigate to the Content section. You’ll find your graphic under My Files.
+
+   ![This is an image](https://i.imgur.com/iPo5nsm.png) 
+
+   Preparing your design
+
+   ![This is an image](https://i.imgur.com/STUnvkX.png) 
+
+   ![This is an image](https://i.imgur.com/bMEPF5n.png) 
+
+
+---
+
+
+
+
 
 
 
