@@ -468,6 +468,20 @@ To activate your Customer Journey, follow these steps.
 
 Nice work! Now, contacts will begin the Customer Journey as they meet the first starting point condition.
 
+### **Delete Customer Journey**
+
+To delete the Customer Journey, follow these steps
+
+1. Click the Automations icon, then choose Customer Journeys.
+   
+   ![This is an image](https://i.imgur.com/a6TW3K6.png) 
+
+2. Click the 3 dots drop-down and choose the **Delete** option to proceed.
+   
+   ![This is an image](https://i.imgur.com/IfxVaPY.png) 
+
+   Customer Journey Deleted Successfully!
+
 ---
 
 # **Integrations**
