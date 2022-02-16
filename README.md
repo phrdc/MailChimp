@@ -1,13 +1,10 @@
 ![This is an image](https://i.imgur.com/7aYD88e.png)
 
-[**Mailchimp**](https://mailchimp.com/) is an American marketing automation platform and email marketing service for managing mailing lists and creating email marketing campaigns to send to customers.
+[**Mailchimp**](https://mailchimp.com/) is an American marketing automation platform and email marketing service for managing mailing lists and creating email marketing campaigns to send to customers. Mailchimp is the trading name of its operator, Rocket Science Group, an American company founded in 2001 by Ben Chestnut and Mark Armstrong, with Dan Kurzius joining at a later date. As of 2021 its parent company is Intuit.
 
 -----
 
 # **Audience**
-
-## **Audience Dashboard**
-![This is an image](https://i.imgur.com/HoDYTOO.png)
 
 The foundation of great marketing is an up-to-date audience of contacts, including important data like who has interacted with your online store and when they subscribed to your emails. Mailchimp offers powerful and flexible tools that help you manage this information and use it to create targeted campaigns.
 
@@ -46,6 +43,9 @@ You can add subscribed contacts one-by-one or multiple, upload contacts from a f
     ![This is an image](https://i.imgur.com/7jG7rNx.png)
 
 3. If you have more than one audience, click the **Current audience** drop-down and choose the one you want to work with.
+   
+   ![This is an image](https://i.imgur.com/HoDYTOO.png)
+
 4. Click the **Manage Audience** drop-down and choose **Add a subscriber.**
 5. Type in the subscriber's information and check the **This person gave me permission to email them** box.
 
