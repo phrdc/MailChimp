@@ -197,6 +197,36 @@ To delete or permanently delete contact, follow these steps.
 
     You have successfully deleted the contact!
 
+## **Signup forms**
+**Signup** forms are an easy but powerful way to extend the reach of your email marketing and enhance your long-term audience growth. Mailchimp offers a number of options to attract subscribers on your website, social channels, and other platforms.
+
+In this article, you'll learn about Mailchimp's signup form options, so you can choose which type of form is best for you.
+
+Mailchimp audiences are single opt-in by default. That means, each time someone fills out and submits your signup form, we'll immediately add them to your Mailchimp audience as a subscribed contact. This makes it easier for people to join your audience, which can be helpful if you're selling a product or capturing customers on the go.
+
+
+  - ### **Landing page signup form**
+
+    Design a shareable landing page to collect new contacts as part of a specific marketing goal. For example, boost your audience growth by collecting addresses in exchange for a free download or other limited-time offer.
+
+    ![This is an image](https://i.imgur.com/wb2lXyO.png)
+
+    Use the Signup Form content block to create a simple form with the email address field from your audience. You can then choose to include more fields from your main hosted form as needed.
+
+    [**Create a Landing Page**](https://mailchimp.com/help/create-a-landing-page/)
+
+  - ### **Embedded form**
+    
+    With our embedded forms, you choose the type of form you want to display on your site, and we give you the code to use. Choose from our Classic, Horizontal, Condensed, and Unstyled forms. If you're comfortable with HTML, edit the form code to fit your organization's style and brand.
+
+    ![This is an image](https://i.imgur.com/15GnpJU.png)
+
+    [**Add a Signup Form to Your Website**](https://mailchimp.com/help/add-a-signup-form-to-your-website/)
+
+ - ### **Pop-up form**
+   This form appears inside a pop-up on your website, based on criteria you set. Create and design the form in Mailchimp, then add it to your website in Mailchimp or another platform.
+
+    ![This is an image](https://i.imgur.com/9RYTmoi.png)
 
 
 ## **Tags**
@@ -525,9 +555,12 @@ Installation steps
 
    ![This is an image](https://i.imgur.com/STUnvkX.png) 
 
+   Check the graphic under **My Files** on **Content Studio.**
+
    ![This is an image](https://i.imgur.com/bMEPF5n.png) 
 
 
+---
 ---
 
 
