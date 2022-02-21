@@ -189,7 +189,7 @@ To delete or permanently delete contact, follow these steps.
 
 3. Check the contact you want to delete and click the **Permanently Delete** button.
    
-   ![This is an image](https://i.imgur.com/M5JhIwu.png)
+   ![This is an image](https://i.imgur.com/oOiY5um.png)
 
 4. To confirm delete you have to type **PERMANENTLY DELETE** then click the **Confirm** button to proceed.
    
